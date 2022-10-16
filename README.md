@@ -1,6 +1,8 @@
 # 3REMZ-SHOP
 E-COMMERCE WEB APPLICATION BUILT ON REACT.JS AND DJANGO REST FRAMEWORK
 <br/>
+I took this course from udemy and i was able to complete the course and reproduce what was taught and further modifications e.g  i used paystack gateway instead of paypal as taught in the course and other modification.
+<br/>
 Previews
 
 ![Screenshot 2022-10-16 133209](https://user-images.githubusercontent.com/26651757/196035854-35b89812-b8c7-4abd-be5b-b02a832b18b0.png)
